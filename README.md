@@ -1,5 +1,5 @@
 # ip-ddoser
-The BEST DoS tool
+The BEST DoS tool (of my street)
 
 <p align="center">
 <img src="https://minerandodados.com.br/wp-content/uploads/2017/02/python-logo.png" height="400">
@@ -19,7 +19,7 @@ The BEST DoS tool
 
 ---
 
-The BEST DoS tool
+The BEST DoS tool (of my street)
 
 ip-ddoser é um script para DoS feito em Python. Ele flooda milhares de pacotes fazendo com que seu host fique lento até cair.
 Se gostou não se esqueça de dar star no GitHub!!
